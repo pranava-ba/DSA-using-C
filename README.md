@@ -17,3 +17,5 @@ Simple programs to implement various Data Structures and Algorithms in C for my 
 13. Binary Search Tree
 14. Priority Queue using heap
 15. Depth First Search
+
+## Placed on hold
